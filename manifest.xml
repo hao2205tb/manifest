@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repo>
+    <module>
+        <name>module1</name>
+        <url>https://github.com/hao2205tb/module1.git</url>
+        <tag>v0.0.0</tag>
+        <!-- Other CD details... -->
+    </module>
+    <module>
+        <name>module2</name>
+        <url>Empire Burlesque</url>
+        <tag>v0.0.0</tag>
+        <!-- Other CD details... -->
+    </module>
+    <!-- More CDs... -->
+</repo>
