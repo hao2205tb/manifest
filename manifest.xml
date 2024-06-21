@@ -4,12 +4,14 @@
         <name>module1</name>
         <url>https://github.com/hao2205tb/module1.git</url>
         <tag>M1_0</tag>
+        <path>module/module1</path>
         <!-- Other CD details... -->
     </module>
     <module>
         <name>module2</name>
         <url>https://github.com/hao2205tb/module2.git</url>
         <tag>M2_0</tag>
+        <path>module/module2</path>
         <!-- Other CD details... -->
     </module>
     <!-- More CDs... -->
